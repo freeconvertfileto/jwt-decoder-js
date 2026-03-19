@@ -2,7 +2,7 @@
 
 Decode JSON Web Tokens in the browser — split the three parts, base64url-decode header and payload, display all claims with timestamps, and check expiry status.
 
-**Live Demo:** https://file-converter-free.com/en/developer-tools/jwt-decoder
+**Live Demo:** https://file-converter-free.com/en/developer-tools/jwt-decoder-online
 
 ## How It Works
 
